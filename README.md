@@ -1,2 +1,1 @@
-# covid19
-Aku sehat
+Main.cpp
